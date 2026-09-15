@@ -1,0 +1,6 @@
+﻿Build started at 16:21...
+1>------ Build started: Project: Lab 5, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  Lab 5 -> C:\Users\Administrator\source\repos\Lab 5\bin\Debug\net9.0\Lab 5.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:21 and took 00.310 seconds ==========
